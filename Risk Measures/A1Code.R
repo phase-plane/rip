@@ -1,4 +1,4 @@
-wd <- paste0(getwd(),"/Week 1/")
+wd <- paste0(getwd(),"/Risk Measures/")
 setwd(wd)
 remove(wd)
 # Question 1

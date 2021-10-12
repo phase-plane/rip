@@ -1,4 +1,4 @@
-wd <- paste0(getwd(),"/Week 2/")
+wd <- paste0(getwd(),"/Capital Allocation/")
 setwd(wd)
 remove(wd)
 remove(list = ls())
