@@ -1,6 +1,4 @@
-wd <- paste0(getwd(),"/Capital Allocation/")
-setwd(wd)
-remove(wd)
+setwd(paste0(getwd(),"/Capital Allocation/"))
 remove(list = ls())
 
 # import data
