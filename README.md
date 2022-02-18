@@ -1,5 +1,5 @@
-Data: [.txt
-file](https://github.com/phase-plane/rip/blob/040281e4d1302985136e6ff810f1273308a6a6cd/Risk%20Measures/RMIP%20Data%20Tutorial.txt)
+Data:
+[.txt](https://github.com/phase-plane/rip/blob/040281e4d1302985136e6ff810f1273308a6a6cd/Risk%20Measures/RMIP%20Data%20Tutorial.txt)  
 
 Description: Daily MSCI closing (index) prices for the Netherlands and
 Greece
@@ -7,8 +7,7 @@ Greece
 ## Overview
 
 R code and .pdf submissions for the course
-`Risk Management for Insurers and Pensions` offered at the University of
-Amsterdam in Autumn 2021.
+`Risk Management for Insurers and Pensions` (Autumn 2021).
 
 <table>
 <thead>
