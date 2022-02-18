@@ -1,0 +1,19 @@
+---
+title: "README"
+output: md_document
+---
+
+Data: [.txt file](https://github.com/phase-plane/rip/blob/040281e4d1302985136e6ff810f1273308a6a6cd/Risk%20Measures/RMIP%20Data%20Tutorial.txt)
+Description: Daily MSCI closing (index) prices for the Netherlands and Greece
+
+## Overview
+
+R code and .pdf submissions for the course `Risk Management for Insurers and Pensions` offered at the University of Amsterdam in Autumn 2021.
+
+Week | Topic (Linked to folder)
+--- | ---
+1 | [Risk Measures](https://github.com/phase-plane/rip/tree/master/Risk%20Measures)
+2 | [Capital Allocation](https://github.com/phase-plane/rip/tree/master/Capital%20Allocation)
+3 | [Time Series](https://github.com/phase-plane/rip/tree/master/Time%20Series)
+4 | [Risk Dependence](https://github.com/phase-plane/rip/tree/master/Risk%20Dependence)
+5 | [Extreme Value Theory](https://github.com/phase-plane/rip/tree/master/Extreme%20Value%20Theory)
