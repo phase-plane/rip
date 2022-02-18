@@ -9,7 +9,9 @@ Description: Daily MSCI closing (index) prices for the Netherlands and Greece
 
 ## Overview
 
-R code and .pdf submissions for the course `Risk Management for Insurers and Pensions` (Autumn 2021).
+R code and .pdf submissions for the course `Risk Management for Insurers and Pensions`  \
+
+Autumn 2021  \
 
 Week | Topic (Linked to folder)
 --- | ---

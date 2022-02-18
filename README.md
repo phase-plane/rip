@@ -7,7 +7,9 @@ Greece
 ## Overview
 
 R code and .pdf submissions for the course
-`Risk Management for Insurers and Pensions` (Autumn 2021).
+`Risk Management for Insurers and Pensions`  
+
+Autumn 2021  
 
 <table>
 <thead>
